@@ -143,7 +143,7 @@
                 "last_commit": "2024-07-31T23:10:28Z",
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34559
+                "stars": 34558
               }
             },
             {
@@ -245,7 +245,7 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-22T15:05:11Z",
+                "last_commit": "2026-08-24T17:54:50Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5260
@@ -348,7 +348,7 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-22T15:05:11Z",
+                "last_commit": "2026-08-24T17:54:50Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5260
@@ -481,10 +481,10 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:49:39Z",
+                "last_commit": "2026-08-24T18:43:54Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14317
+                "stars": 14319
               }
             },
             {
@@ -667,7 +667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:39:53.171Z",
+    "last_updated": "2026-08-24T18:50:55.355Z",
     "original_repository": "mikeroyal/LiDAR-Guide",
     "original_repository_id": 376938838,
     "original_repository_sha": "a5d4758e0e5a9a1dd0c171702882f7f2c5bb0c1d",

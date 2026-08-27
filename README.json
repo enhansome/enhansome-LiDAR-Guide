@@ -143,7 +143,7 @@
                 "last_commit": "2024-07-31T23:10:28Z",
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34555
+                "stars": 34556
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-26T00:16:18Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11129
+                "stars": 11130
               }
             },
             {
@@ -245,7 +245,7 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-26T19:45:52Z",
+                "last_commit": "2026-08-27T11:47:05Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5264
@@ -276,7 +276,7 @@
                 "last_commit": "2023-12-06T09:16:49Z",
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17591
+                "stars": 17590
               }
             },
             {
@@ -288,10 +288,10 @@
                 "archived": false,
                 "id": 112542515,
                 "language": "C++",
-                "last_commit": "2026-08-26T10:48:43Z",
+                "last_commit": "2026-08-27T07:28:38Z",
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10316
+                "stars": 10323
               }
             },
             {
@@ -336,7 +336,7 @@
                 "last_commit": "2026-08-26T00:16:18Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11129
+                "stars": 11130
               }
             },
             {
@@ -348,7 +348,7 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-26T19:45:52Z",
+                "last_commit": "2026-08-27T11:47:05Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5264
@@ -439,7 +439,7 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18424
+                "stars": 18425
               }
             },
             {
@@ -454,7 +454,7 @@
                 "last_commit": "2026-08-13T01:02:20Z",
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9610
+                "stars": 9611
               }
             },
             {
@@ -466,7 +466,7 @@
                 "archived": false,
                 "id": 28635894,
                 "language": "C++",
-                "last_commit": "2026-08-26T13:56:40Z",
+                "last_commit": "2026-08-27T09:32:38Z",
                 "owner": "alicevision",
                 "repo": "AliceVision",
                 "stars": 3486
@@ -481,10 +481,10 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-26T16:31:20Z",
+                "last_commit": "2026-08-27T09:24:03Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14327
+                "stars": 14328
               }
             },
             {
@@ -602,7 +602,7 @@
                 "last_commit": "2023-12-13T03:58:36Z",
                 "owner": "scottclowe",
                 "repo": "matlab-schemer",
-                "stars": 1257
+                "stars": 1258
               }
             },
             {
@@ -667,9 +667,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:56:15.225Z",
-    "original_repository": "mikeroyal/LiDAR-Guide",
-    "original_repository_id": 376938838,
+    "last_updated": "2026-08-27T11:47:56.168Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 376938838,
+      "language": "Python",
+      "last_commit": "2024-01-04T22:20:03Z",
+      "owner": "mikeroyal",
+      "repo": "LiDAR-Guide",
+      "stars": 107
+    },
     "original_repository_sha": "a5d4758e0e5a9a1dd0c171702882f7f2c5bb0c1d",
     "enhanced_repository": "enhansome/enhansome-LiDAR-Guide",
     "enhanced_repository_description": null,

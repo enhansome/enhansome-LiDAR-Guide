@@ -230,10 +230,10 @@
                 "archived": false,
                 "id": 3659275,
                 "language": "Python",
-                "last_commit": "2026-08-26T00:16:18Z",
+                "last_commit": "2026-08-27T16:05:16Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11130
+                "stars": 11131
               }
             },
             {
@@ -245,10 +245,10 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:47:05Z",
+                "last_commit": "2026-08-27T17:25:39Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5264
+                "stars": 5265
               }
             }
           ],
@@ -291,7 +291,7 @@
                 "last_commit": "2026-08-27T07:28:38Z",
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10323
+                "stars": 10329
               }
             },
             {
@@ -333,10 +333,10 @@
                 "archived": false,
                 "id": 3659275,
                 "language": "Python",
-                "last_commit": "2026-08-26T00:16:18Z",
+                "last_commit": "2026-08-27T16:05:16Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11130
+                "stars": 11131
               }
             },
             {
@@ -348,10 +348,10 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:47:05Z",
+                "last_commit": "2026-08-27T17:25:39Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5264
+                "stars": 5265
               }
             },
             {
@@ -439,7 +439,7 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18425
+                "stars": 18426
               }
             },
             {
@@ -454,7 +454,7 @@
                 "last_commit": "2026-08-13T01:02:20Z",
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9611
+                "stars": 9612
               }
             },
             {
@@ -466,7 +466,7 @@
                 "archived": false,
                 "id": 28635894,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:32:38Z",
+                "last_commit": "2026-08-27T16:36:37Z",
                 "owner": "alicevision",
                 "repo": "AliceVision",
                 "stars": 3486
@@ -481,10 +481,10 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:24:03Z",
+                "last_commit": "2026-08-28T00:33:50Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14328
+                "stars": 14332
               }
             },
             {
@@ -602,7 +602,7 @@
                 "last_commit": "2023-12-13T03:58:36Z",
                 "owner": "scottclowe",
                 "repo": "matlab-schemer",
-                "stars": 1258
+                "stars": 1259
               }
             },
             {
@@ -667,7 +667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:47:56.168Z",
+    "last_updated": "2026-08-28T02:07:24.795Z",
     "original_repository_info": {
       "archived": false,
       "id": 376938838,

@@ -16,7 +16,8 @@
             "owner": "mikeroyal",
             "repo": "LiDAR-Guide",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-29T01:40:39.270Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mikeroyal",
             "repo": "LiDAR-Guide",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-29T01:40:39.270Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mikeroyal",
             "repo": "LiDAR-Guide",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-29T01:40:39.270Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mikeroyal",
             "repo": "LiDAR-Guide",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-29T01:40:39.270Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mikeroyal",
             "repo": "LiDAR-Guide",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-29T01:40:39.270Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mikeroyal",
             "repo": "LiDAR-Guide",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-29T01:40:39.270Z"
         }
       ],
       "title": "A guide covering LiDAR including the applications, libraries and tools that will make you better and more efficient with LiDAR development."
@@ -114,7 +120,8 @@
                 "owner": "apple",
                 "repo": "tensorflow_macos",
                 "stars": 3648
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "plaidml",
                 "repo": "plaidml",
                 "stars": 4566
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -143,8 +151,9 @@
                 "last_commit": "2024-07-31T23:10:28Z",
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34556
-              }
+                "stars": 34557
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "Theano",
                 "repo": "Theano",
                 "stars": 9998
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "NervanaSystems",
                 "repo": "ngraph",
                 "stars": 1344
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "microsoft",
                 "repo": "sql-spark-connector",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "yahoo",
                 "repo": "CMAK",
                 "stars": 11925
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "pop-os",
                 "repo": "tensorman",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -230,11 +244,12 @@
                 "archived": false,
                 "id": 3659275,
                 "language": "Python",
-                "last_commit": "2026-08-27T16:05:16Z",
+                "last_commit": "2026-08-28T17:05:35Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11131
-              }
+                "stars": 11132
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -245,11 +260,12 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-27T17:25:39Z",
+                "last_commit": "2026-08-28T20:05:12Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5265
-              }
+                "stars": 5267
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             }
           ],
           "description": "TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.\nKeras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.It was developed with a focus on enabling fast experimentation. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML.\nPyTorch is a library for deep learning on irregular input data such as graphs, point clouds, and manifolds. Primarily developed by Facebook's AI Research lab.\nAmazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker removes the heavy lifting from each step of the machine learning process to make it easier to develop high quality models.\nAzure Databricks is a fast and collaborative Apache Spark-based big data analytics service designed for data science and data engineering. Azure Databricks, sets up your Apache Spark environment in minutes, autoscale, and collaborate on shared projects in an interactive workspace. Azure Databricks supports Python, Scala, R, Java, and SQL, as well as data science frameworks and libraries including TensorFlow, PyTorch, and scikit-learn.\nMicrosoft Cognitive Toolkit (CNTK) is an open-source toolkit for commercial-grade distributed deep learning. It describes neural networks as a series of computational steps via a directed graph. CNTK allows the user to easily realize and combine popular model types such as feed-forward DNNs, convolutional neural networks (CNNs) and recurrent neural networks (RNNs/LSTMs). CNTK implements stochastic gradient descent (SGD, error backpropagation) learning with automatic differentiation and parallelization across multiple GPUs and servers.\nApple CoreML is a framework that helps integrate machine learning models into your app. Core ML provides a unified representation for all models. Your app uses Core ML APIs and user data to make predictions, and to train or fine-tune models, all on the user's device. A model is the result of applying a machine learning algorithm to a set of training data. You use a model to make predictions based on new input data.\nApache OpenNLP is an open-source library for a machine learning based toolkit used in the processing of natural language text. It features an API for use cases like Named Entity Recognition, Sentence Detection, POS(Part-Of-Speech) tagging, Tokenization Feature extraction, Chunking, Parsing, and Coreference resolution.\nApache Airflow is an open-source workflow management platform created by the community to programmatically author, schedule and monitor workflows. Install. Principles. Scalable. Airflow has a modular architecture and uses a message queue to orchestrate an arbitrary number of workers. Airflow is ready to scale to infinity.\nOpen Neural Network Exchange(ONNX) is an open ecosystem that empowers AI developers to choose the right tools as their project evolves. ONNX provides an open source format for AI models, both deep learning and traditional ML. It defines an extensible computation graph model, as well as definitions of built-in operators and standard data types.\nApache MXNet is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity. At its core, MXNet contains a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. MXNet is portable and lightweight, scaling effectively to multiple GPUs and multiple machines. Support for Python, R, Julia, Scala, Go, Javascript and more.\nAutoGluon is toolkit for Deep learning that automates machine learning tasks enabling you to easily achieve strong predictive performance in your applications. With just a few lines of code, you can train and deploy high-accuracy deep learning models on tabular, image, and text data.\nAnaconda is a very popular Data Science platform for machine learning and deep learning that enables users to develop models, train them, and deploy them.\nOpenCV is a highly optimized library with focus on real-time computer vision applications. The C++, Python, and Java interfaces support Linux, MacOS, Windows, iOS, and Android.\nScikit-Learn is a Python module for machine learning built on top of SciPy, NumPy, and matplotlib, making it easier to apply robust and simple implementations of many popular machine learning algorithms.\nWeka is an open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.\nNVIDIA cuDNN is a GPU-accelerated library of primitives for deep neural networks. cuDNN provides highly tuned implementations for standard routines such as forward and backward convolution, pooling, normalization, and activation layers. cuDNN accelerates widely used deep learning frameworks, including Caffe2, Chainer, Keras, MATLAB, MxNet, PyTorch, and TensorFlow.\nJupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Jupyter is used widely in industries that do data cleaning and transformation, numerical simulation, statistical modeling, data visualization, data science, and machine learning.\nApache Spark is a unified analytics engine for large-scale data processing. It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis. It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.\nApache PredictionIO is an open source machine learning framework for developers, data scientists, and end users. It supports event collection, deployment of algorithms, evaluation, querying predictive results via REST APIs. It is based on scalable open source services like Hadoop, HBase (and other DBs), Elasticsearch, Spark and implements what is called a Lambda Architecture.\nBigDL is a distributed deep learning library for Apache Spark. With BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.\nEclipse Deeplearning4J (DL4J) is a set of projects intended to support all the needs of a JVM-based(Scala, Kotlin, Clojure, and Groovy) deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.\nChainer is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using CuPy for high performance training and inference.\nXGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.",
@@ -276,8 +292,9 @@
                 "last_commit": "2023-12-06T09:16:49Z",
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17590
-              }
+                "stars": 17591
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -288,11 +305,12 @@
                 "archived": false,
                 "id": 112542515,
                 "language": "C++",
-                "last_commit": "2026-08-27T07:28:38Z",
+                "last_commit": "2026-08-28T08:54:06Z",
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10329
-              }
+                "stars": 10338
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -307,7 +325,8 @@
                 "owner": "NVIDIA",
                 "repo": "cub",
                 "stars": 1842
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -322,7 +341,8 @@
                 "owner": "pop-os",
                 "repo": "tensorman",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -333,11 +353,12 @@
                 "archived": false,
                 "id": 3659275,
                 "language": "Python",
-                "last_commit": "2026-08-27T16:05:16Z",
+                "last_commit": "2026-08-28T17:05:35Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11131
-              }
+                "stars": 11132
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -348,11 +369,12 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-27T17:25:39Z",
+                "last_commit": "2026-08-28T20:05:12Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5265
-              }
+                "stars": 5267
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -367,7 +389,8 @@
                 "owner": "NVIDIA",
                 "repo": "thrust",
                 "stars": 5002
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -382,7 +405,8 @@
                 "owner": "mp3guy",
                 "repo": "Kintinuous",
                 "stars": 954
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             }
           ],
           "description": "CUDA Toolkit is a collection of tools & libraries that provide a development environment for creating high performance GPU-accelerated applications. The CUDA Toolkit allows you can develop, optimize, and deploy your applications on GPU-accelerated embedded systems, desktop workstations, enterprise data centers, cloud-based platforms and HPC supercomputers. The toolkit includes GPU-accelerated libraries, debugging and optimization tools, a C/C++ compiler, and a runtime library to build and deploy your application on major architectures including x86, Arm and POWER.\nNVIDIA cuDNN is a GPU-accelerated library of primitives for deep neural networks. cuDNN provides highly tuned implementations for standard routines such as forward and backward convolution, pooling, normalization, and activation layers. cuDNN accelerates widely used deep learning frameworks, including Caffe2, Chainer, Keras, MATLAB, MxNet, PyTorch, and TensorFlow.\nCUDA-X HPC is a collection of libraries, tools, compilers and APIs that help developers solve the world's most challenging problems. CUDA-X HPC includes highly tuned kernels essential for high-performance computing (HPC).\nMinkowski Engine is an auto-differentiation library for sparse tensors. It supports all standard neural network layers such as convolution, pooling, unpooling, and broadcasting operations for sparse tensors.\nChainer is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using CuPy for high performance training and inference.\nCuPy is an implementation of NumPy-compatible multi-dimensional array on CUDA. CuPy consists of the core multi-dimensional array class, cupy.ndarray, and many functions on it. It supports a subset of numpy.ndarray interface.\nCatBoost is a fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.\ncuDF is a GPU DataFrame library for loading, joining, aggregating, filtering, and otherwise manipulating data. cuDF provides a pandas-like API that will be familiar to data engineers & data scientists, so they can use it to easily accelerate their workflows without going into the details of CUDA programming.\nArrayFire is a general-purpose library that simplifies the process of developing software that targets parallel and massively-parallel architectures including CPUs, GPUs, and other hardware acceleration devices.\nAresDB is a GPU-powered real-time analytics storage and query engine. It features low query latency, high data freshness and highly efficient in-memory and on disk storage management.\nArraymancer is a tensor (N-dimensional array) project in Nim. The main focus is providing a fast and ergonomic CPU, Cuda and OpenCL ndarray library on which to build a scientific computing ecosystem.\nGraphVite is a general graph embedding engine, dedicated to high-speed and large-scale embedding learning in various applications.",
@@ -410,7 +434,8 @@
                 "owner": "roboticslibrary",
                 "repo": "rl",
                 "stars": 1199
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -425,7 +450,8 @@
                 "owner": "intel",
                 "repo": "robot_devkit",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -439,8 +465,9 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18426
-              }
+                "stars": 18427
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -454,8 +481,9 @@
                 "last_commit": "2026-08-13T01:02:20Z",
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9612
-              }
+                "stars": 9613
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -466,11 +494,12 @@
                 "archived": false,
                 "id": 28635894,
                 "language": "C++",
-                "last_commit": "2026-08-27T16:36:37Z",
+                "last_commit": "2026-08-28T14:26:24Z",
                 "owner": "alicevision",
                 "repo": "AliceVision",
                 "stars": 3486
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -481,11 +510,12 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-28T00:33:50Z",
+                "last_commit": "2026-08-28T12:56:49Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14332
-              }
+                "stars": 14335
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -499,8 +529,9 @@
                 "last_commit": "2026-08-16T16:53:49Z",
                 "owner": "carla-simulator",
                 "repo": "ros-bridge",
-                "stars": 643
-              }
+                "stars": 644
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -515,7 +546,8 @@
                 "owner": "ms-iot",
                 "repo": "vscode-ros",
                 "stars": 431
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -530,7 +562,8 @@
                 "owner": "microsoft",
                 "repo": "Azure_Kinect_ROS_Driver",
                 "stars": 322
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -545,7 +578,8 @@
                 "owner": "microsoft",
                 "repo": "ros_azure_iothub",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -560,7 +594,8 @@
                 "owner": "ms-iot",
                 "repo": "ros_msft_onnx",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -575,7 +610,8 @@
                 "owner": "ms-iot",
                 "repo": "ros_msft_luis",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             }
           ],
           "description": "Robot Framework is a generic open source automation framework. It can be used for test automation and robotic process automation. It has easy syntax, utilizing human-readable keywords. Its capabilities can be extended by libraries implemented with Python or Java.\nRobot Structural Analysis Professional is structural load analysis software developed by Autodesk that verifies code compliance and uses BIM-integrated workflows to exchange data with Revit. It can help you to create more resilient, constructible designs that are accurate, coordinated, and connected to BIM.\nPowerMill is a software developed by Autodesk that provides powerful, flexible, easy-to-use tools for offline programming of robots. Get tools to help you optimize robotic paths and simulate virtual mock-ups of manufacturing cells and systems.\nROS is robotics middleware. Although ROS is not an operating system, it provides services designed for a heterogeneous computer cluster such as hardware abstraction, low-level device control, implementation of commonly used functionality, message-passing between processes, and package management.\nROS2 is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project. And it’s all open source.\nMoveIt is the most widely used software for manipulation and has been used on over 100 robots. It provides an easy-to-use robotics platform for developing advanced applications, evaluating new designs and building integrated products for industrial, commercial, R&D, and other domains.\nAutoGluon is toolkit for Deep learning that automates machine learning tasks enabling you to easily achieve strong predictive performance in your applications. With just a few lines of code, you can train and deploy high-accuracy deep learning models on tabular, image, and text data.\nGazebo accurately and efficiently simulates indoor and outdoor robots. You get a robust physics engine, high-quality graphics, and programmatic and graphical interfaces.\nRobotics System Toolbox provides tools and algorithms for designing, simulating, and testing manipulators, mobile robots, and humanoid robots. For manipulators and humanoid robots, the toolbox includes algorithms for collision checking, trajectory generation, forward and inverse kinematics, and dynamics using a rigid body tree representation. For mobile robots, it includes algorithms for mapping, localization, path planning, path following, and motion control. The toolbox provides reference examples of common industrial robot applications. It also includes a library of commercially available industrial robot models that you can import, visualize, and simulate.\nArduino is an open-source platform used for building electronics projects. Arduino consists of both a physical programmable circuit board (often referred to as a microcontroller) and a piece of software, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the physical board.\nArduPilot enables the creation and use of trusted, autonomous, unmanned vehicle systems for the peaceful benefit of all. ArduPilot provides a comprehensive suite of tools suitable for almost any vehicle and application.\nLight Detection and Ranging(LiDAR) is a remote sensing method that uses light in the form of a pulsed laser at an object, and uses the time and wavelength of the reflected beam of light to estimate the distance and in some applications (Laser Imaging), to create a 3D representation of the object and its surface characteristics. This technology is commonly used in aircraft and self-driving vehicles.\nROS-Industrial is an open source project that extends the advanced capabilities of ROS software to manufacturing.\nAWS RoboMaker is the most complete cloud solution for robotic developers to simulate, test and securely deploy robotic applications at scale. RoboMaker provides a fully-managed, scalable infrastructure for simulation that customers use for multi-robot simulation and CI/CD integration with regression testing in simulation.\nMicrosoft Robotics Developer Studio is a free .NET-based programming environment for building robotics applications.",
@@ -603,7 +639,8 @@
                 "owner": "scottclowe",
                 "repo": "matlab-schemer",
                 "stars": 1259
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -618,7 +655,8 @@
                 "owner": "andrewssobral",
                 "repo": "lrslibrary",
                 "stars": 886
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             },
             {
               "node_type": "item",
@@ -633,7 +671,8 @@
                 "owner": "piermorel",
                 "repo": "gramm",
                 "stars": 824
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             }
           ],
           "description": "MATLAB and Simulink Services & Applications List\nMATLAB in the Cloud is a service that allows you to run in cloud environments from MathWorks Cloud to Public Clouds including AWS and Azure.\nMATLAB Online™ is a service that allows to users to uilitize MATLAB and Simulink through a web browser such as Google Chrome.\nSimulink is a block diagram environment for Model-Based Design. It supports simulation, automatic code generation, and continuous testing of embedded systems.\nSimulink Online™ is a service that provides access to Simulink through your web browser.\nMATLAB Drive™ is a service that gives you the ability to store, access, and work with your files from anywhere.\nMATLAB Parallel Server™ is a tool that lets you scale MATLAB® programs and Simulink® simulations to clusters and clouds. You can prototype your programs and simulations on the desktop and then run them on clusters and clouds without recoding. MATLAB Parallel Server supports batch jobs, interactive parallel computations, and distributed computations with large matrices.\nImage Processing Toolbox™ is a tool that provides a comprehensive set of reference-standard algorithms and workflow apps for image processing, analysis, visualization, and algorithm development. You can perform image segmentation, image enhancement, noise reduction, geometric transformations, image registration, and 3D image processing.\nComputer Vision Toolbox™ is a tool that provides algorithms, functions, and apps for designing and testing computer vision, 3D vision, and video processing systems. You can perform object detection and tracking, as well as feature detection, extraction, and matching. You can automate calibration workflows for single, stereo, and fisheye cameras. For 3D vision, the toolbox supports visual and point cloud SLAM, stereo vision, structure from motion, and point cloud processing.\nStatistics and Machine Learning Toolbox™ is a tool that provides functions and apps to describe, analyze, and model data. You can use descriptive statistics, visualizations, and clustering for exploratory data analysis; fit probability distributions to data; generate random numbers for Monte Carlo simulations, and perform hypothesis tests. Regression and classification algorithms let you draw inferences from data and build predictive models either interactively, using the Classification and Regression Learner apps, or programmatically, using AutoML.\nLidar Toolbox™ is a tool that provides algorithms, functions, and apps for designing, analyzing, and testing lidar processing systems. You can perform object detection and tracking, semantic segmentation, shape fitting, lidar registration, and obstacle detection. Lidar Toolbox supports lidar-camera cross calibration for workflows that combine computer vision and lidar processing.\nMapping Toolbox™ is a tool that provides algorithms and functions for transforming geographic data and creating map displays. You can visualize your data in a geographic context, build map displays from more than 60 map projections, and transform data from a variety of sources into a consistent geographic coordinate system.\nUAV Toolbox is an application that provides tools and reference applications for designing, simulating, testing, and deploying unmanned aerial vehicle (UAV) and drone applications. You can design autonomous flight algorithms, UAV missions, and flight controllers. The Flight Log Analyzer app lets you interactively analyze 3D flight paths, telemetry information, and sensor readings from common flight log formats.\nParallel Computing Toolbox™ is a tool that lets you solve computationally and data-intensive problems using multicore processors, GPUs, and computer clusters. High-level constructs such as parallel for-loops, special array types, and parallelized numerical algorithms enable you to parallelize MATLAB® applications without CUDA or MPI programming. The toolbox lets you use parallel-enabled functions in MATLAB and other toolboxes. You can use the toolbox with Simulink® to run multiple simulations of a model in parallel. Programs and models can run in both interactive and batch modes.\nPartial Differential Equation Toolbox™ is a tool that provides functions for solving structural mechanics, heat transfer, and general partial differential equations (PDEs) using finite element analysis.\nROS Toolbox is a tool that provides an interface connecting MATLAB® and Simulink® with the Robot Operating System (ROS and ROS 2), enabling you to create a network of ROS nodes. The toolbox includes MATLAB functions and Simulink blocks to import, analyze, and play back ROS data recorded in rosbag files. You can also connect to a live ROS network to access ROS messages.\nRobotics Toolbox™ provides a toolbox that brings robotics specific functionality(designing, simulating, and testing manipulators, mobile robots, and humanoid robots) to MATLAB, exploiting the native capabilities of MATLAB (linear algebra, portability, graphics). The toolbox also supports mobile robots with functions for robot motion models (bicycle), path planning algorithms (bug, distance transform, D*, PRM), kinodynamic planning (lattice, RRT), localization (EKF, particle filter), map building (EKF) and simultaneous localization and mapping (EKF), and a Simulink model a of non-holonomic vehicle. The Toolbox also including a detailed Simulink model for a quadrotor flying robot.\nDeep Learning Toolbox™ is a tool that provides a framework for designing and implementing deep neural networks with algorithms, pretrained models, and apps. You can use convolutional neural networks (ConvNets, CNNs) and long short-term memory (LSTM) networks to perform classification and regression on image, time-series, and text data. You can build network architectures such as generative adversarial networks (GANs) and Siamese networks using automatic differentiation, custom training loops, and shared weights. With the Deep Network Designer app, you can design, analyze, and train networks graphically. It can exchange models with TensorFlow™ and PyTorch through the ONNX format and import models from TensorFlow-Keras and Caffe. The toolbox supports transfer learning with DarkNet-53, ResNet-50, NASNet, SqueezeNet and many other pretrained models.\nReinforcement Learning Toolbox™ is a tool that provides an app, functions, and a Simulink® block for training policies using reinforcement learning algorithms, including DQN, PPO, SAC, and DDPG. You can use these policies to implement controllers and decision-making algorithms for complex applications such as resource allocation, robotics, and autonomous systems.\nDeep Learning HDL Toolbox™ is a tool that provides functions and tools to prototype and implement deep learning networks on FPGAs and SoCs. It provides pre-built bitstreams for running a variety of deep learning networks on supported Xilinx® and Intel® FPGA and SoC devices. Profiling and estimation tools let you customize a deep learning network by exploring design, performance, and resource utilization tradeoffs.\nModel Predictive Control Toolbox™ is a tool that provides functions, an app, and Simulink® blocks for designing and simulating controllers using linear and nonlinear model predictive control (MPC). The toolbox lets you specify plant and disturbance models, horizons, constraints, and weights. By running closed-loop simulations, you can evaluate controller performance.\nVision HDL Toolbox™ is a tool that provides pixel-streaming algorithms for the design and implementation of vision systems on FPGAs and ASICs. It provides a design framework that supports a diverse set of interface types, frame sizes, and frame rates. The image processing, video, and computer vision algorithms in the toolbox use an architecture appropriate for HDL implementations.\nSoC Blockset™ is a tool that provides Simulink® blocks and visualization tools for modeling, simulating, and analyzing hardware and software architectures for ASICs, FPGAs, and systems on a chip (SoC). You can build your system architecture using memory models, bus models, and I/O models, and simulate the architecture together with the algorithms.\nWireless HDL Toolbox™ is a tool that provides pre-verified, hardware-ready Simulink® blocks and subsystems for developing 5G, LTE, and custom OFDM-based wireless communication applications. It includes reference applications, IP blocks, and gateways between frame and sample-based processing.\nThingSpeak™ is an IoT analytics service that allows you to aggregate, visualize, and analyze live data streams in the cloud. ThingSpeak provides instant visualizations of data posted by your devices to ThingSpeak. With the ability to execute MATLAB® code in ThingSpeak, you can perform online analysis and process data as it comes in. ThingSpeak is often used for prototyping and proof-of-concept IoT systems that require analytics.\nSEA-MAT is a collaborative effort to organize and distribute Matlab tools for the Oceanographic Community.\nhctsa is a software package for running highly comparative time-series analysis using Matlab.\nPlotly is a Graphing Library for MATLAB.\nYALMIP is a MATLAB toolbox for optimization modeling.\nGNU Octave is a high-level interpreted language, primarily intended for numerical computations. It provides capabilities for the numerical solution of linear and nonlinear problems, and for performing other numerical experiments. It also provides extensive graphics capabilities for data visualization and manipulation.",
@@ -655,7 +694,8 @@
                 "owner": "mikeroyal",
                 "repo": "LiDAR-Guide",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-29T01:40:39.270Z"
             }
           ],
           "description": null,
@@ -667,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:07:24.795Z",
+    "last_updated": "2026-08-29T01:40:39.270Z",
     "original_repository_info": {
       "archived": false,
       "id": 376938838,

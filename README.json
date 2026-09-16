@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "LiDAR-Guide",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "augmented-reality",
               "augmented-reality-applications",
@@ -59,7 +59,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "LiDAR-Guide",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "augmented-reality",
               "augmented-reality-applications",
@@ -99,7 +99,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "LiDAR-Guide",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "augmented-reality",
               "augmented-reality-applications",
@@ -139,7 +139,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "LiDAR-Guide",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "augmented-reality",
               "augmented-reality-applications",
@@ -179,7 +179,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "LiDAR-Guide",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "augmented-reality",
               "augmented-reality-applications",
@@ -219,7 +219,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "LiDAR-Guide",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "augmented-reality",
               "augmented-reality-applications",
@@ -334,7 +334,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10000,
+                "stars": 10002,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:40:39.270Z"
@@ -453,11 +453,11 @@
                 "id": 3659275,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-15T18:08:20Z",
-                "open_issues": 1797,
+                "last_commit": "2026-09-16T15:21:29Z",
+                "open_issues": 1794,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11154,
+                "stars": 11153,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -482,11 +482,11 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T20:45:38Z",
-                "open_issues": 808,
+                "last_commit": "2026-09-16T20:31:40Z",
+                "open_issues": 802,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5277,
+                "stars": 5280,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -552,7 +552,7 @@
                 "open_issues": 747,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10437,
+                "stars": 10444,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -636,11 +636,11 @@
                 "id": 3659275,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-15T18:08:20Z",
-                "open_issues": 1797,
+                "last_commit": "2026-09-16T15:21:29Z",
+                "open_issues": 1794,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11154,
+                "stars": 11153,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -665,11 +665,11 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T20:45:38Z",
-                "open_issues": 808,
+                "last_commit": "2026-09-16T20:31:40Z",
+                "open_issues": 802,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5277,
+                "stars": 5280,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -696,7 +696,7 @@
                 "open_issues": 8,
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 5000,
+                "stars": 5001,
                 "topics": [
                   "algorithms",
                   "cpp",
@@ -827,7 +827,7 @@
                 "open_issues": 780,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18480,
+                "stars": 18485,
                 "topics": [
                   "ai",
                   "airsim",
@@ -866,7 +866,7 @@
                 "open_issues": 14,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9648,
+                "stars": 9652,
                 "topics": [
                   "diy",
                   "hardware",
@@ -891,7 +891,7 @@
                 "id": 28635894,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T12:14:08Z",
+                "last_commit": "2026-09-16T14:08:10Z",
                 "open_issues": 39,
                 "owner": "alicevision",
                 "repo": "AliceVision",
@@ -926,11 +926,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-15T20:03:27Z",
+                "last_commit": "2026-09-16T19:05:20Z",
                 "open_issues": 1202,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14401,
+                "stars": 14406,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1185,7 +1185,7 @@
                 "open_issues": 22,
                 "owner": "piermorel",
                 "repo": "gramm",
-                "stars": 825,
+                "stars": 826,
                 "topics": [
                   "data-visualization",
                   "matlab",
@@ -1220,7 +1220,7 @@
                 "open_issues": 0,
                 "owner": "mikeroyal",
                 "repo": "LiDAR-Guide",
-                "stars": 107,
+                "stars": 108,
                 "topics": [
                   "augmented-reality",
                   "augmented-reality-applications",
@@ -1254,7 +1254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T21:09:22.304Z",
+    "last_updated": "2026-09-16T21:10:35.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "LiDAR Guide ",
@@ -1266,7 +1266,7 @@
       "open_issues": 0,
       "owner": "mikeroyal",
       "repo": "LiDAR-Guide",
-      "stars": 107,
+      "stars": 108,
       "topics": [
         "augmented-reality",
         "augmented-reality-applications",

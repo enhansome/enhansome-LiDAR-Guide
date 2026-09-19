@@ -309,7 +309,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34553,
+                "stars": 34552,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -457,7 +457,7 @@
                 "open_issues": 1792,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11155,
+                "stars": 11158,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -482,11 +482,11 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T20:15:40Z",
-                "open_issues": 790,
+                "last_commit": "2026-09-18T23:55:52Z",
+                "open_issues": 794,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5283,
+                "stars": 5284,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -526,7 +526,7 @@
                 "open_issues": 0,
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17599,
+                "stars": 17598,
                 "topics": [
                   "cuda",
                   "docker",
@@ -552,7 +552,7 @@
                 "open_issues": 745,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10453,
+                "stars": 10457,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -640,7 +640,7 @@
                 "open_issues": 1792,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11155,
+                "stars": 11158,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -665,11 +665,11 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T20:15:40Z",
-                "open_issues": 790,
+                "last_commit": "2026-09-18T23:55:52Z",
+                "open_issues": 794,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5283,
+                "stars": 5284,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -827,7 +827,7 @@
                 "open_issues": 780,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18494,
+                "stars": 18499,
                 "topics": [
                   "ai",
                   "airsim",
@@ -866,7 +866,7 @@
                 "open_issues": 14,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9656,
+                "stars": 9657,
                 "topics": [
                   "diy",
                   "hardware",
@@ -892,7 +892,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-18T14:21:12Z",
-                "open_issues": 40,
+                "open_issues": 42,
                 "owner": "alicevision",
                 "repo": "AliceVision",
                 "stars": 3498,
@@ -930,7 +930,7 @@
                 "open_issues": 1196,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14408,
+                "stars": 14409,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -969,7 +969,7 @@
                 "open_issues": 186,
                 "owner": "carla-simulator",
                 "repo": "ros-bridge",
-                "stars": 644,
+                "stars": 645,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:40:39.270Z"
@@ -1254,7 +1254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T20:46:01.260Z",
+    "last_updated": "2026-09-19T20:26:47.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "LiDAR Guide ",

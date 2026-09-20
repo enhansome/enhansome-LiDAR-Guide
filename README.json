@@ -309,7 +309,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34552,
+                "stars": 34553,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -552,7 +552,7 @@
                 "open_issues": 745,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10457,
+                "stars": 10461,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -824,10 +824,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-15T16:17:06Z",
-                "open_issues": 780,
+                "open_issues": 781,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18499,
+                "stars": 18501,
                 "topics": [
                   "ai",
                   "airsim",
@@ -863,10 +863,10 @@
                 "language": "HTML",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T19:13:02Z",
-                "open_issues": 14,
+                "open_issues": 16,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9657,
+                "stars": 9659,
                 "topics": [
                   "diy",
                   "hardware",
@@ -892,7 +892,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-18T14:21:12Z",
-                "open_issues": 42,
+                "open_issues": 43,
                 "owner": "alicevision",
                 "repo": "AliceVision",
                 "stars": 3498,
@@ -930,7 +930,7 @@
                 "open_issues": 1196,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14409,
+                "stars": 14412,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1254,7 +1254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T20:26:47.206Z",
+    "last_updated": "2026-09-20T20:39:12.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "LiDAR Guide ",

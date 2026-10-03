@@ -208,7 +208,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-02T18:16:02Z",
-                "open_issues": 1820,
+                "open_issues": 1823,
                 "owner": "numba",
                 "repo": "numba",
                 "stars": 11169,
@@ -236,11 +236,11 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T04:05:38Z",
+                "last_commit": "2026-10-03T06:48:33Z",
                 "open_issues": 808,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5296,
+                "stars": 5297,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -306,7 +306,7 @@
                 "open_issues": 776,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10519,
+                "stars": 10521,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -391,7 +391,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-02T18:16:02Z",
-                "open_issues": 1820,
+                "open_issues": 1823,
                 "owner": "numba",
                 "repo": "numba",
                 "stars": 11169,
@@ -419,11 +419,11 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T04:05:38Z",
+                "last_commit": "2026-10-03T06:48:33Z",
                 "open_issues": 808,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5296,
+                "stars": 5297,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -581,7 +581,7 @@
                 "open_issues": 781,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18531,
+                "stars": 18533,
                 "topics": [
                   "ai",
                   "airsim",
@@ -620,7 +620,7 @@
                 "open_issues": 16,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9677,
+                "stars": 9678,
                 "topics": [
                   "diy",
                   "hardware",
@@ -961,7 +961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:32:07.314Z",
+    "last_updated": "2026-10-03T20:55:19.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "LiDAR Guide ",

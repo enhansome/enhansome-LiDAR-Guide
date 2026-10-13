@@ -21,7 +21,7 @@
                 "open_issues": 216,
                 "owner": "apple",
                 "repo": "tensorflow_macos",
-                "stars": 3642,
+                "stars": 3643,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:40:39.270Z"
@@ -42,7 +42,7 @@
                 "open_issues": 265,
                 "owner": "plaidml",
                 "repo": "plaidml",
-                "stars": 4565,
+                "stars": 4566,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:40:39.270Z"
@@ -88,7 +88,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10008,
+                "stars": 10007,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:40:39.270Z"
@@ -207,11 +207,11 @@
                 "id": 3659275,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-12T19:47:05Z",
-                "open_issues": 1827,
+                "last_commit": "2026-10-13T19:42:23Z",
+                "open_issues": 1822,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11175,
+                "stars": 11177,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -236,8 +236,8 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T23:25:12Z",
-                "open_issues": 807,
+                "last_commit": "2026-10-13T20:26:06Z",
+                "open_issues": 804,
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5305,
@@ -280,7 +280,7 @@
                 "open_issues": 0,
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17601,
+                "stars": 17600,
                 "topics": [
                   "cuda",
                   "docker",
@@ -302,11 +302,11 @@
                 "id": 112542515,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T08:34:38Z",
+                "last_commit": "2026-10-13T08:06:51Z",
                 "open_issues": 784,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10563,
+                "stars": 10572,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -390,11 +390,11 @@
                 "id": 3659275,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-12T19:47:05Z",
-                "open_issues": 1827,
+                "last_commit": "2026-10-13T19:42:23Z",
+                "open_issues": 1822,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11175,
+                "stars": 11177,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -419,8 +419,8 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T23:25:12Z",
-                "open_issues": 807,
+                "last_commit": "2026-10-13T20:26:06Z",
+                "open_issues": 804,
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5305,
@@ -527,7 +527,7 @@
                 "open_issues": 54,
                 "owner": "roboticslibrary",
                 "repo": "rl",
-                "stars": 1207,
+                "stars": 1206,
                 "topics": [
                   "c-plus-plus",
                   "collision-detection",
@@ -581,7 +581,7 @@
                 "open_issues": 781,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18549,
+                "stars": 18555,
                 "topics": [
                   "ai",
                   "airsim",
@@ -620,7 +620,7 @@
                 "open_issues": 17,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9706,
+                "stars": 9708,
                 "topics": [
                   "diy",
                   "hardware",
@@ -645,11 +645,11 @@
                 "id": 28635894,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T18:36:15Z",
-                "open_issues": 41,
+                "last_commit": "2026-10-13T14:25:13Z",
+                "open_issues": 38,
                 "owner": "alicevision",
                 "repo": "AliceVision",
-                "stars": 3512,
+                "stars": 3514,
                 "topics": [
                   "3d-computer-vision",
                   "3d-reconstruction",
@@ -680,11 +680,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-13T00:15:59Z",
-                "open_issues": 1202,
+                "last_commit": "2026-10-13T16:11:13Z",
+                "open_issues": 1203,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14482,
+                "stars": 14486,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -723,7 +723,7 @@
                 "open_issues": 186,
                 "owner": "carla-simulator",
                 "repo": "ros-bridge",
-                "stars": 645,
+                "stars": 646,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:40:39.270Z"
@@ -767,7 +767,7 @@
                 "open_issues": 80,
                 "owner": "microsoft",
                 "repo": "Azure_Kinect_ROS_Driver",
-                "stars": 323,
+                "stars": 322,
                 "topics": [
                   "azure",
                   "kinect",
@@ -877,7 +877,7 @@
                 "open_issues": 19,
                 "owner": "scottclowe",
                 "repo": "matlab-schemer",
-                "stars": 1257,
+                "stars": 1258,
                 "topics": [
                   "color-scheme",
                   "color-theme",
@@ -961,7 +961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T00:28:58.690Z",
+    "last_updated": "2026-10-13T22:32:33.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "LiDAR Guide ",

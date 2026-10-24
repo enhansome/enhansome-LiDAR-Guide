@@ -88,7 +88,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10010,
+                "stars": 10009,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:40:39.270Z"
@@ -211,7 +211,7 @@
                 "open_issues": 1832,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11185,
+                "stars": 11187,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -236,11 +236,11 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T02:41:33Z",
-                "open_issues": 794,
+                "last_commit": "2026-10-24T00:11:30Z",
+                "open_issues": 796,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5306,
+                "stars": 5308,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -280,7 +280,7 @@
                 "open_issues": 0,
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17601,
+                "stars": 17602,
                 "topics": [
                   "cuda",
                   "docker",
@@ -303,10 +303,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-21T09:49:15Z",
-                "open_issues": 794,
+                "open_issues": 803,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10651,
+                "stars": 10652,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -394,7 +394,7 @@
                 "open_issues": 1832,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11185,
+                "stars": 11187,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -419,11 +419,11 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T02:41:33Z",
-                "open_issues": 794,
+                "last_commit": "2026-10-24T00:11:30Z",
+                "open_issues": 796,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5306,
+                "stars": 5308,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -581,7 +581,7 @@
                 "open_issues": 781,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18572,
+                "stars": 18575,
                 "topics": [
                   "ai",
                   "airsim",
@@ -684,7 +684,7 @@
                 "open_issues": 1220,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14526,
+                "stars": 14533,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -961,7 +961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T21:17:02.952Z",
+    "last_updated": "2026-10-24T20:34:06.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "LiDAR Guide ",

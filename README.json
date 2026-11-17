@@ -21,7 +21,7 @@
                 "open_issues": 216,
                 "owner": "apple",
                 "repo": "tensorflow_macos",
-                "stars": 3642,
+                "stars": 3641,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:40:39.270Z"
@@ -63,7 +63,7 @@
                 "open_issues": 1176,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34555,
+                "stars": 34556,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -164,7 +164,7 @@
                 "open_issues": 521,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11918,
+                "stars": 11915,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -207,11 +207,11 @@
                 "id": 3659275,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-12T12:17:28Z",
-                "open_issues": 1847,
+                "last_commit": "2026-11-16T21:29:20Z",
+                "open_issues": 1848,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11215,
+                "stars": 11214,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -236,11 +236,11 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T23:51:31Z",
-                "open_issues": 788,
+                "last_commit": "2026-11-17T00:24:07Z",
+                "open_issues": 776,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5322,
+                "stars": 5321,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -280,7 +280,7 @@
                 "open_issues": 0,
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17627,
+                "stars": 17629,
                 "topics": [
                   "cuda",
                   "docker",
@@ -303,10 +303,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-06T09:43:14Z",
-                "open_issues": 877,
+                "open_issues": 876,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10732,
+                "stars": 10735,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -390,11 +390,11 @@
                 "id": 3659275,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-12T12:17:28Z",
-                "open_issues": 1847,
+                "last_commit": "2026-11-16T21:29:20Z",
+                "open_issues": 1848,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11215,
+                "stars": 11214,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -419,11 +419,11 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T23:51:31Z",
-                "open_issues": 788,
+                "last_commit": "2026-11-17T00:24:07Z",
+                "open_issues": 776,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5322,
+                "stars": 5321,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -581,7 +581,7 @@
                 "open_issues": 781,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18614,
+                "stars": 18616,
                 "topics": [
                   "ai",
                   "airsim",
@@ -620,7 +620,7 @@
                 "open_issues": 17,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9781,
+                "stars": 9783,
                 "topics": [
                   "diy",
                   "hardware",
@@ -645,11 +645,11 @@
                 "id": 28635894,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T11:54:18Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-16T14:31:14Z",
+                "open_issues": 29,
                 "owner": "alicevision",
                 "repo": "AliceVision",
-                "stars": 3536,
+                "stars": 3538,
                 "topics": [
                   "3d-computer-vision",
                   "3d-reconstruction",
@@ -680,11 +680,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-15T22:38:31Z",
-                "open_issues": 1019,
+                "last_commit": "2026-11-16T21:19:06Z",
+                "open_issues": 1020,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14609,
+                "stars": 14613,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -723,7 +723,7 @@
                 "open_issues": 186,
                 "owner": "carla-simulator",
                 "repo": "ros-bridge",
-                "stars": 645,
+                "stars": 646,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:40:39.270Z"
@@ -744,7 +744,7 @@
                 "open_issues": 149,
                 "owner": "ms-iot",
                 "repo": "vscode-ros",
-                "stars": 428,
+                "stars": 427,
                 "topics": [
                   "ros"
                 ]
@@ -935,8 +935,8 @@
                 "id": 47769110,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-10-29T14:31:36Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-16T22:13:16Z",
+                "open_issues": 17,
                 "owner": "piermorel",
                 "repo": "gramm",
                 "stars": 828,
@@ -961,7 +961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T22:41:52.801Z",
+    "last_updated": "2026-11-17T01:48:27.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "LiDAR Guide ",
